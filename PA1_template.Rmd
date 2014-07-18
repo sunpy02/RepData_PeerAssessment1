@@ -4,6 +4,7 @@
 ## Loading and preprocessing the data
 
 ```{r}
+setwd("C://Users//PengyiSun//Documents//Coursera")
 data<-read.csv("activity.csv",header=T)
 
 ```
